@@ -1,0 +1,29 @@
+﻿body {
+}
+* div {
+    display:inline-block;
+}
+.headDiv {
+    width:400px;
+    height:auto;
+    border:1px solid gray;
+}
+* hr {
+    width:95%;
+}
+.textArea {
+    font-family:'Comic Sans MS';
+    display: block;
+    margin:5px 5px 5px 5px;
+}
+.arrow {
+    margin-left:350px;
+}
+
+h1 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin: 0px 0px 0px 5px;
+}
